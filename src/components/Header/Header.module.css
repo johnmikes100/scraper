@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-bottom: rgb(214, 214, 214) solid 0.05px;
+    height: 130px;
+    display:flex;
+}
+
+
+
+
+.Logo{
+    image-rendering: crisp-edges;
+    object-fit: contain;
+}

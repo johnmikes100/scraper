@@ -1,0 +1,13 @@
+.holder{
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+}
+
+.midSection{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    margin-top: 10%;
+
+}

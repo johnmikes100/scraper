@@ -1,0 +1,26 @@
+.largeTextArea {
+    width: 100%; /* Full width to fit its container */
+    height: 200px; /* Large enough to accommodate multiple lines of text */
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    resize: none; /* Disable resizing */
+    font-size: 0.75vw;
+    font-family: Inter;
+    margin-bottom: 0.5vw;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:35%;
+}
+
+.buttonArea{
+    margin-top: 0.7vw;
+    display: flex;
+    justify-content: center;
+
+}
